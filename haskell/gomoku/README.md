@@ -2,7 +2,8 @@
 
 Uruchamianie w ghci
 
-Aby uruchomiæ grê w ghci nale¿y wykonaæ polecenia:```
+Aby uruchomiæ grê w ghci nale¿y wykonaæ polecenia:
+```
 :l gomoku.hs
 :main
 ```
